@@ -23,7 +23,14 @@ Rydfly kanpur-booking-analysis/
 │   └── dashboard.pbix
 │
 └── README.md
-
+|
+|__images
+    └── ![Dashboard Preview]
+(images/overview.png)
+(images/Veh type.png)
+(images/revenue.png)
+(images/cancel.png)
+(images/ratings.png)
 ```
 
 ---
